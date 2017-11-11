@@ -1,0 +1,30 @@
+{
+  "name": "api-v1-agenda",
+  "version": "1.0.0",
+  "description": "API REST para processar requisicoes do sistema js de agenda de contatos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "wagner",
+    "grilo",
+    "jr",
+    "agenda",
+    "javascript",
+    "express",
+    "rest"
+  ],
+  "author": "Wagner Grilo de Barros Junior",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "express-validator": "^4.2.1",
+    "mysql": "^2.15.0"
+  }
+}

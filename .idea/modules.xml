@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/api-v1-agenda.iml" filepath="$PROJECT_DIR$/.idea/api-v1-agenda.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/01-aluraframe (1)/aluraframe/server/.idea/server.iml" filepath="$USER_HOME$/Desktop/01-aluraframe (1)/aluraframe/server/.idea/server.iml" />
+    </modules>
+  </component>
+</project>
